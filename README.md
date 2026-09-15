@@ -25,4 +25,4 @@ Universiti Teknologi Malaysia (UTM)
 ---
 
 ### 📂 Repository Purpose
-This repository serves as a personal archive for assignments, tutorials, and projects for this semester.
+This repository serves as a personal archive for assignments, tutorials, and projects for this semester. Lecture Notes and Reference Materials are not included in this repository
